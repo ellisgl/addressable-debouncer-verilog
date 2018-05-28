@@ -15,3 +15,6 @@ EDA Playground: https://www.edaplayground.com/x/64qZ
 * N.C. should be connected to S(et) and N.O. to R(eset), so N.C. to port 0, and N.O. to port 1, and so on.
 * Address select ports should be set for pull-up, connect to ground for "1".
 * Address bus is just a normal TTL, 1 = 1.
+
+### Todo
+* individual folders for different CPLD/FPGAs (Verilog + Constraints and Schematics). This will be limited to what I have available.
