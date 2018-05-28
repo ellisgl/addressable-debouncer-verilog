@@ -3,6 +3,8 @@ Addressable 8 SPDT Debouncer in Verilog
 
 An addressable debouncer for use with a CPLD / FPGA. 
 
+EDA Playground: https://www.edaplayground.com/x/64qZ
+
 ### Features
 * Debounces 8 SPDT buttons.
 * Addressable with 3 bit (Giving you 8 devices, or 64 total buttons).

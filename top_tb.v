@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+`include "top.v"
 module top_tb();
   wire [7:0]  out;
   reg  [15:0] in;
